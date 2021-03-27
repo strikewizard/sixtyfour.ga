@@ -30,8 +30,8 @@ p {
     background-color: #292929;
 font-family: 'M PLUS Rounded 1c', sans-serif;
     color: #8f8f8f;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
     text-align: center;
     font-size: 20px;
 }
@@ -39,7 +39,15 @@ font-family: 'M PLUS Rounded 1c', sans-serif;
 h1 {
     background-color: #292929;
 font-family: 'M PLUS Rounded 1c', sans-serif;
-    color: #8f8f8f;
+    color: #6b83ac;
+    font-size: 27px;
+    text-align: center;
+}
+
+h2 {
+    background-color: #292929;
+font-family: 'M PLUS Rounded 1c', sans-serif;
+    color: #9e7a5a;
     font-size: 27px;
     text-align: center;
 }
